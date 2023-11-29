@@ -1,5 +1,5 @@
 # Ex.06 Book Front Cover Page Design
-## Date:
+## Date:28.11.2023
 
 ## AIM:
 To design a book front cover page using HTML and CSS.
@@ -35,11 +35,10 @@ Publish the website in the LocalHost.
 book.html
 
 
-
 <style>
     .bookpage{
         width: 400px;
-        height: 600px;
+        height: 530px;
         color:rgba(0, 246, 70, 0.986);
         margin-left: auto;
         margin-right: auto;
@@ -148,7 +147,7 @@ book.html
 ```
 
 ## OUTPUT:
-![Alt text](<Screenshot (99).png>)
+![Alt text](<Screenshot (100).png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
